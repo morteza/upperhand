@@ -1,6 +1,6 @@
 # Upper Hand
 
-Extract who holds the power, and find out who has the upper hand in your relations from your emails ([read more](http://io9.com/to-see-who-holds-the-power-in-your-relationships-check-1630619630)).
+Extract who holds the power, and find out who has the upper hand in your relations, from your emails ([read more](http://io9.com/to-see-who-holds-the-power-in-your-relationships-check-1630619630)). Currently it only supports Gmail.
 
 ## Discliamer
 
