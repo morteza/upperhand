@@ -5,3 +5,8 @@ Extract who holds the power, and find out who has the upper hand in your relatio
 ## Discliamer
 
 This is just a very limited and nonsense experiment. Do not take it seriously. Nobody has the upper hand in a relationship. Friends do not want to take advantage of their friends. A friend in need, is a friend indeed!
+
+## ToDo
+
+- [ ] Semantic role labeling to extract subject (A0 argument).
+- [ ] Restrucure codes in another file rather than init.
